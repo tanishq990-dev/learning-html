@@ -3,6 +3,7 @@
     background-color: lightblue;
 }
 .head2{
+
     color: tomato;
     font-size: 33px;
     font-style: italic;
@@ -12,6 +13,13 @@
     /*word-spacing: 60px;
     letter-spacing: 10px;*/
     text-shadow: 10px  20px 6px blanchedalmond;
+    text-align: center;
     
 
+}
+.para{
+    font-weight: bold;
+}
+.head3{
+    font-family: Verdana;
 }

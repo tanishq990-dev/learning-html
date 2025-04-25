@@ -1,0 +1,23 @@
+
+.container{
+    background-color: skyblue;
+    color: red;
+    padding-top: 50px;
+    padding-left: 60px;
+    padding-bottom: 70px;
+    
+    padding: 100px ;
+    border-radius: 40px;
+
+
+}
+.container1{
+    background-color: yellow;
+    color: white;
+    padding: 100px;
+    margin-top: 50px;
+    border: 40px dotted black;
+    border-radius: 40px;
+
+    
+}
