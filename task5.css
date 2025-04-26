@@ -1,14 +1,18 @@
 .burger{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
    
 
     background-color: darkgray;
     padding: 200px;
+    align-items: center;
 }
 .photo{
    height: 200px;
     width: 200px;
     padding-right: 500px;
 padding-bottom: 200px;    background-color: darkgray;
+}
+.burger .main button {
+
 }

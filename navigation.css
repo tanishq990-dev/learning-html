@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+
+}
+
+.navbar{
+    background-color: skyblue;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 2px solid black;
+}
+.navbar ul{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+
+}
+.navbar ul li{
+
+    background-color: red;
+    color: white;
+    padding: 8px;
+    border-radius: 200px;
+}
