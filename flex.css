@@ -1,0 +1,13 @@
+.parent{
+    display: flex;
+
+    justify-content:space-between ;
+}
+.main{
+    background-color: red;
+    height: 300px;
+    width: 200px;
+    border: 2px solid black;
+
+
+}
