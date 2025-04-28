@@ -1,0 +1,9 @@
+ html{
+    scroll-behavior: smooth;
+ }
+ 
+ 
+ .head{
+   background-color: red;
+   color: yellow;
+}
