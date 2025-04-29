@@ -1,0 +1,19 @@
+.head1{
+    font-family: "Comic Relief", system-ui;
+
+}
+.head2{
+    font-family: "Cascadia Code", sans-serif;
+
+}
+.wrapper{
+    background-color: yellow;
+    height: 400px;
+}
+.ch1{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    position: absolute;
+    top: 50px;
+}

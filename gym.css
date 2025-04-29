@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+   margin: 0px;
+}
+
+.gymimage{
+   
+   color: white;
+   display: flex;
+}
+
+.navigate{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-evenly`
+    ;
+    gap: 40px;
+    list-style: none;
+
+}
