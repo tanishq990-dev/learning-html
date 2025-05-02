@@ -1,7 +1,7 @@
 .burger{
     display: flex;
     justify-content: space-evenly;
-   
+    flex-wrap: wrap;
 
     background-color: darkgray;
     padding: 200px;
@@ -12,9 +12,5 @@
     width: 200px;
     padding-right: 500px;
 padding-bottom: 200px;    background-color: darkgray;
-}
-.burger .main button {
 
-}
-.class{
 }

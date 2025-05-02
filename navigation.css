@@ -9,6 +9,7 @@ body{
     justify-content: space-evenly;
     align-items: center;
     border: 2px solid black;
+    position: fixed;
 }
 .navbar ul{
     display: flex;
@@ -23,4 +24,7 @@ body{
     color: white;
     padding: 8px;
     border-radius: 200px;
+}
+.sticky{
+     
 }
