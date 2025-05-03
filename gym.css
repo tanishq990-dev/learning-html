@@ -78,13 +78,7 @@ a{
         background-color: red;
     }
     .aboutus{
-        color: lightcyan;
-
-        
-        
-       
-       
-        
+        color: lightcyan;  
     }
     .quote{
         gap: 100px;
@@ -99,4 +93,15 @@ a{
         font-size: 90px;
     font-family: Georgia, 'Times New Roman', Times, serif;        
      }
-   
+   .PROGRAM{
+    padding: 100px;
+    color: black;
+    
+    text-decoration: underline;
+    background-color: lightpink;
+    
+   }
+  .aboutus{
+    text-decoration: underline;
+    color: white;
+  }
