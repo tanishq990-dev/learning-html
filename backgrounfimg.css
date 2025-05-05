@@ -1,0 +1,19 @@
+/* .hero{
+    background-image: url(1.png);
+    height: 300px;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;    
+
+
+
+    
+} */
+ .hero{
+    background-image: url(burger.png);
+    height: 100vh;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+ }
